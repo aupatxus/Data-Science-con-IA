@@ -1,7 +1,7 @@
 # Data Science con IA
 https://formacion.thebridge.tech/  
 
-![Data Science con IA](Vital LANBIDE.png)
+![Data Science con IA](https://raw.githubusercontent.com/aupatxus/ONLINE_DS_THEBRIDGE_GitHub/refs/heads/main/Vital%20LANBIDE.png)
 
 ## Módulo 1
 ### Fundamentos y herramientas aplicadas a Data
