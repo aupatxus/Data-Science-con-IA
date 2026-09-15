@@ -1,6 +1,8 @@
 # Data Science con IA
 https://formacion.thebridge.tech/  
 
+![]("Vital LANBIDE.png")
+
 ## Módulo 1
 ### Fundamentos y herramientas aplicadas a Data
 *Este bloque introductorio te proporcionará una base sólida en programación y las herramientas fundamentales para iniciar tu camino en Data Science.*
